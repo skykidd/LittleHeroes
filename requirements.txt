@@ -1,0 +1,12 @@
+streamlit==1.31.0
+openai==1.12.0
+anthropic>=0.25.0
+langchain==0.1.9
+langchain-community==0.0.24
+langchain-huggingface==0.0.1
+langchain-text-splitters
+faiss-cpu>=1.8.0
+python-dotenv==1.0.1
+requests==2.31.0
+reportlab==4.0.9
+sentence-transformers>=2.6.0
